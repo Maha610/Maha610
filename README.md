@@ -1,6 +1,6 @@
 # Hi there, I'm Maha Adel👋
 
-### 🥷🏻 Junior Cybersecurity Engineer | 🌐 Networking Enthusiast | 🎓 ECE Fresh Graduate
+### 🥷🏻 Junior Cybersecurity Engineer | 🌐 Networking Enthusiast 
 ---
 
 ## 🛠️ Technologies and Tools
@@ -36,9 +36,3 @@
 <img src="https://img.shields.io/badge/Linux%20CLI-282C34?logo=linux&logoColor=FCC624" alt="Linux CLI" title="Linux Command Line" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell" title="PowerShell" height="25" />
 
-## 📫 **Connect with me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaadelmohammed/)
-&nbsp;&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Maha10)
-&nbsp;&nbsp;
