@@ -5,17 +5,14 @@
 
 ## 🛠️ Technologies and Tools
 
-### 🔥 **Firewall & Security**
-<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/NAT%2FPAT-282C34?style=flat&logo=cisco&logoColor=1BA0D7" alt="NAT/PAT" title="Network Address Translation" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/MFA-282C34?style=flat&logo=auth0&logoColor=EB5424" alt="MFA" title="Multi-Factor Authentication" height="25" />
-
 ### 🔍 **Security & Scanning Tools**
 <img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark" title="Wireshark" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/SIEM-282C34?logo=splunk&logoColor=000000" alt="SIEM" title="Security Information and Event Management" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Splunk-282C34?logo=splunk&logoColor=000000" alt="Splunk" title="Splunk" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Nmap-282C34?logo=nmap&logoColor=white" alt="Nmap" title="Nmap" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=2596CD" alt="Metasploit" title="Metasploit Framework" height="25" />
+<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
+
 
 ### 🖥️ **Tools & Platforms**
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-282C34?logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" title="Cisco Packet Tracer" height="25" />&nbsp;
