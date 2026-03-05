@@ -8,7 +8,6 @@
 ### 🔥 **Firewall & Security**
 <img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/NAT%2FPAT-282C34?style=flat&logo=cisco&logoColor=1BA0D7" alt="NAT/PAT" title="Network Address Translation" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Security Zones" title="Security Zones" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MFA-282C34?style=flat&logo=auth0&logoColor=EB5424" alt="MFA" title="Multi-Factor Authentication" height="25" />
 
 ### 🔍 **Security & Scanning Tools**
