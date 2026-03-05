@@ -1,65 +1,35 @@
-<div align="center">
-  
-# Hi there, I'm Maha Adel👋
+# Hi there, I'm Maha Adel 👋
 
-### 🥷🏻 Junior Cybersecurity Engineer |🌐 Networking Enthusiast |🎓 ECE Fresh Graduate 
+### 🥷🏻 Junior Cybersecurity Engineer | 🌐 Networking Enthusiast | 🎓 ECE Fresh Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahaadelmohammed/)
-[![TryHHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Maha10)
-
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Maha10)
 
 ---
+## 🛠️ Technologies and Tools
 
-## 🌟 About Me
-Passionate about network security and hands-on implementation. I enjoy building practical tools and solving real-world security challenges.
-
----
-
-
-## 🎯 What I Offer
-
-### 🔐 **Network Security Expertise**
-- ✅ Certified in **CompTIA Security+, HCIA-Security, and CCNA**
-- ✅ Hands-on experience with **VLANs, ACLs, Port Security, and firewall policies**
-
-
----
-
-## 💻 Technical Expertise
-
-Built on years of applying these technologies in production environments and teaching them to 500+ students:
-
-### 🔐 **Network Security**
-- ✅ **Network Segmentation:** VLANs, Trunking, Inter-VLAN Routing
-- ✅ **Security Features:** ACLs, Port Security, DHCP Snooping
-- ✅ **Firewalls:** Huawei policies, NAT/PAT, security zones
-- ✅ **Routing:** OSPF, Static Routing
-- ✅ **Redundancy:** EtherChannel (LACP)
+### 🔥 **Firewall & Security**
+<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/NAT%2FPAT-282C34?style=flat&logo=cisco&logoColor=1BA0D7" alt="NAT/PAT" title="Network Address Translation" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Security%20Zones-282C34?style=flat&logo=cisco&logoColor=1BA0D7" alt="Security Zones" title="Security Zones" height="25" />
 
 ### 🖥️ **Tools & Platforms**
-- 🔍 **Wireshark** - Packet analysis
-- 📊 **Splunk** - Log analysis
-- 🖧 **Packet Tracer, eNSP, GNS3** - Network simulation
-- 🐧 **Bash/Shell** - Linux command line scripting
-- 🐍 **Python** - Security automation
-- ❄️ **TypeScript / React Native** - Mobile development (graduation project)
-- 🧩 **HTML/CSS** - Frontend basics
-- 🔰 **VS Code** - Primary code editor
+<img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark" title="Wireshark" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Splunk-282C34?logo=splunk&logoColor=000000" alt="Splunk" title="Splunk" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-282C34?logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" title="Cisco Packet Tracer" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/eNSP-282C34?logo=huawei&logoColor=FF0000" alt="eNSP" title="Huawei eNSP" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/GNS3-282C34?style=flat&logo=gns3&logoColor=5E2C7A" alt="GNS3" title="GNS3" height="25" />
 
----
+### 💻 **Programming & Scripting**
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Bash-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Bash" title="Bash/Shell" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript" title="TypeScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />
 
-## 🤝 Let's Collaborate
-I'm actively seeking opportunities to connect, learn, and grow in the cybersecurity field!
-I'm open to:
-- 🛡️ **Entry-level Cybersecurity Roles** (SOC Analyst, Network Security)
-- 🔐 **Junior Network Security Engineer** positions
-- 🌐 **Network Administration** roles with security focus
----
-
-<div align="center">
-⭐ Found something useful? A star is always appreciated!
-
-**💡 "Still learning, still building, still curious."**
-
-</div>
+### 🐧 **Operating Systems**
+<img src="https://img.shields.io/badge/Kali%20Linux-282C34?logo=kalilinux&logoColor=557C94" alt="Kali Linux" title="Kali Linux" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Linux%20CLI-282C34?logo=linux&logoColor=FCC624" alt="Linux CLI" title="Linux Command Line" height="25" />
+<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=0078D6" alt="Windows" title="Windows" height="25" />&nbsp;
