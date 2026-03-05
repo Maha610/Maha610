@@ -1,6 +1,6 @@
 # Hi there, I'm Maha Adel👋
 
-### 🥷🏻 Junior Cybersecurity Engineer | 🌐 Networking Enthusiast 
+### 🥷🏻 Junior Cybersecurity Engineer 
 ---
 
 ## 🛠️ Technologies and Tools
