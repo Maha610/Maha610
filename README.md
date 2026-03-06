@@ -5,7 +5,7 @@
 
 ## 🛠️ Technologies and Tools
 
-### 🔍 **Security & Scanning Tools**
+### 🔍 **Security Tools**
 <img src="https://img.shields.io/badge/SIEM-282C34?logo=splunk&logoColor=000000" alt="SIEM" title="Security Information and Event Management" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Splunk-282C34?logo=splunk&logoColor=000000" alt="Splunk" title="Splunk" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-282C34?logo=wireshark&logoColor=1679A7" alt="Wireshark" title="Wireshark" height="25" />&nbsp;
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />
 
-### 🐧 **Operating Systems & Scripting**
+### 🐧 **Operating Systems **
 <img src="https://img.shields.io/badge/Kali%20Linux-282C34?logo=kalilinux&logoColor=557C94" alt="Kali Linux" title="Kali Linux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Linux%20CLI-282C34?logo=linux&logoColor=FCC624" alt="Linux CLI" title="Linux Command Line" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell" title="PowerShell" height="25" />
