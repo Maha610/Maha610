@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="Visual Studio Code" height="25" />
 
-### 🐧 **Operating Systems **
+### 🐧 **Operating Systems**
 <img src="https://img.shields.io/badge/Kali%20Linux-282C34?logo=kalilinux&logoColor=557C94" alt="Kali Linux" title="Kali Linux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Linux%20CLI-282C34?logo=linux&logoColor=FCC624" alt="Linux CLI" title="Linux Command Line" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell" title="PowerShell" height="25" />
