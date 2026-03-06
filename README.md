@@ -11,15 +11,12 @@
 <img src="https://img.shields.io/badge/Splunk-282C34?logo=splunk&logoColor=000000" alt="Splunk" title="Splunk" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Nmap-282C34?logo=nmap&logoColor=white" alt="Nmap" title="Nmap" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=2596CD" alt="Metasploit" title="Metasploit Framework" height="25" />
-<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
-
-
-### 🖥️ **Tools & Platforms**
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-282C34?logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" title="Cisco Packet Tracer" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/eNSP-282C34?logo=huawei&logoColor=FF0000" alt="eNSP" title="Huawei eNSP" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/GNS3-282C34?logo=gns3&logoColor=5E2C7A" alt="GNS3" title="GNS3" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TryHackMe-282C34?logo=tryhackme&logoColor=white" alt="TryHackMe" title="TryHackMe" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VirusTotal-282C34?logo=virusTotal&logoColor=394EFF" alt="VirusTotal" title="VirusTotal" height="25" />
+<img src="https://img.shields.io/badge/Huawei%20Firewall-282C34?style=flat&logo=huawei&logoColor=FF0000" alt="Huawei Firewall" title="Huawei Security Policies" height="25" />&nbsp;
 
 
 ### 💻 **Programming & Scripting**
@@ -35,4 +32,3 @@
 <img src="https://img.shields.io/badge/Kali%20Linux-282C34?logo=kalilinux&logoColor=557C94" alt="Kali Linux" title="Kali Linux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Linux%20CLI-282C34?logo=linux&logoColor=FCC624" alt="Linux CLI" title="Linux Command Line" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell" title="PowerShell" height="25" />
-
